@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://helixoriginator.github.io/Civic-Knowledge-Hub-Governance-Law-Democracy-Studies/sitemap.xml
